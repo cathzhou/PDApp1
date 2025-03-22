@@ -1,0 +1,6 @@
+framework module Pods_PDApp1Tests {
+  umbrella header "Pods-PDApp1Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
